@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer Faruk Kurt- Data Scientist</h1>
+<h1 align="center">Hi 👋, I'm Ömer Faruk Kurt</h1>
 <h3 align="center">I am a graduate of the Statistics department at Eski¸sehir Osmangazi University. Throughout my academic journey, I received education in various fields, including data collection, data management, data analysis, data mining, predictive modeling, and machine learning. I have a strong command of mathematical and statistical tools and also possess knowledge of programming languages. Additionally, I am skilled in using visualization tools. I believe I am an effective team player with excellent communication and collaboration skills. Thanks to my willingness to learn and adapt to new environments, I can work in various roles on different projects. I aspire to build a career in Data Analysis - Data Science and will continue to learn and improve myself in this field.</h3>
 
 <div>
